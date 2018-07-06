@@ -1,2 +1,2 @@
 # MNIST
-A repository for neural networks intended for handwritten digit recognition using MNIST dataset
+A repository for neural networks modeled using tensorflow intended for handwritten digit recognition of MNIST dataset
